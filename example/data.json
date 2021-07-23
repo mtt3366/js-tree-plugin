@@ -1,0 +1,89 @@
+﻿[
+  {
+    "name": "动物动物",
+    "open": true,
+    "children": [
+      {
+        "name": "水生动物",
+        "children": [
+          {
+            "name": "海洋"
+          },
+          {
+            "name": "河流"
+          },
+          {
+            "name": "湖泊"
+          },
+          {
+            "name": "沼泽"
+          }
+        ]
+      },
+      {
+        "name": "陆生动物",
+        "children": [
+          {
+            "name": "狮子"
+          },
+          {
+            "name": "老虎"
+          },
+          {
+            "name": "大象"
+          },
+          {
+            "name": "长颈鹿"
+          },
+          {
+            "name": "熊猫"
+          },
+          {
+            "name": "人",
+            "children": [
+              {
+                "name": "猿人"
+              },
+              {
+                "name": "类人"
+              },
+              {
+                "name": "男人"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "植物植物",
+    "open": true,
+    "children": [
+      {
+        "name": "花",
+        "open": true,
+        "children": [
+          {"name":"红花"},
+          {"name":"红花"},
+          {"name":"红花"},
+          {"name":"红花"}
+
+        ]
+      },
+      {
+        "name": "水果"
+      }
+    ]
+  },{
+  "name": "微生物",
+  "children": [
+    {
+      "name": "细菌"
+    },
+    {
+      "name": "真菌"
+    }
+  ]
+}
+]
